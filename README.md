@@ -13,7 +13,9 @@ These dependencies can be installed using pip:
 
 pip install streamlit PyPDF2 LangChain python-dotenv
 
-also you need to create a file with the main.py, .env where you need to write your open AI key following the next pattern : 
+You will also need to obtain an OpenAI API key to use the tool. To obtain a key, visit the OpenAI website, sign up for an account, and generate an API key.
+
+Next, create a new file in the same directory as the main.py file, called .env, and write your OpenAI API key using the following format:
 
 OPENAI_API_KEY= < YOUR KEY HERE >
 
