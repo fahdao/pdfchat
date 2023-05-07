@@ -1,7 +1,6 @@
 PDF Search
 
-PDF Search is a simple tool that allows users to upload a PDF file and search for specific information within the document using natural language. The tool uses the LangChain library to perform similarity search and question answering on the uploaded PDF file.
-Installation
+PDF Search is a simple tool that allows users to upload a PDF file and search for specific information within the document using natural language. The tool uses the LangChain library and OpenAI models to perform similarity search and question answering on the uploaded PDF file.
 
 Before using PDF Search, ensure that the following dependencies are installed:
 
